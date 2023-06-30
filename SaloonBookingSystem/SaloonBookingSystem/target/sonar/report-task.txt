@@ -1,0 +1,6 @@
+projectKey=soloon
+serverUrl=http://localhost:9098
+serverVersion=8.9.10.61524
+dashboardUrl=http://localhost:9098/dashboard?id=soloon
+ceTaskId=AYeyI1lPX_pl35-MuXOa
+ceTaskUrl=http://localhost:9098/api/ce/task?id=AYeyI1lPX_pl35-MuXOa
